@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "Julia Child",
-        "photo": "https://example.com/julia-child.jpg",
+        "photo": "https://i.ibb.co/QDb1gCV/istockphoto-1142230160-612x612.jpg",
         "like": 1200,
         "years_experience": 10,
         "num_recipes": 524
@@ -10,7 +10,7 @@
     {
         "id": 2,
         "name": "Gordon Ramsay",
-        "photo": "https://example.com/gordon-ramsay.jpg",
+        "photo": "https://i.ibb.co/kq1CZH5/istockphoto-951132442-612x612.jpg",
         "like": 2500,
         "years_experience": 25,
         "num_recipes": 1500
@@ -18,7 +18,7 @@
     {
         "id": 3,
         "name": "Ina Garten",
-        "photo": "https://example.com/ina-garten.jpg",
+        "photo": "https://i.ibb.co/0GfcbGw/front-view-young-female-cook-white-cook-suit-white-cap-smiling-happy-140725-15367.jpg",
         "like": 800,
         "years_experience": 20,
         "num_recipes": 300
@@ -26,7 +26,7 @@
     {
         "id": 4,
         "name": "Anthony Bourdain",
-        "photo": "https://example.com/anthony-bourdain.jpg",
+        "photo": "https://i.ibb.co/y6LgsT6/portrait-smiling-chef-uniform-329181-675.jpg",
         "like": 1800,
         "years_experience": 23,
         "num_recipes": 75
@@ -34,7 +34,7 @@
     {
         "id": 5,
         "name": "Christina Tosi",
-        "photo": "https://example.com/christina-tosi.jpg",
+        "photo": "https://i.ibb.co/bJdVVRB/portrait-young-woman-chef-background-488220-23689.jpg",
         "like": 400,
         "years_experience": 13,
         "num_recipes": 100
@@ -42,7 +42,7 @@
     {
         "id": 6,
         "name": "Massimo Bottura",
-        "photo": "https://example.com/massimo-bottura.jpg",
+        "photo": "https://i.ibb.co/HBdf8DM/image-cheerful-young-cook-uniform-standing-isolated-grey-wall-171337-5340.jpg",
         "like": 1500,
         "years_experience": 12,
         "num_recipes": 450
