@@ -2,6 +2,7 @@
     {
         "id": 1,
         "name": "Julia Child",
+        "description": "Massimo Bottura is an Italian chef and the owner of Osteria Francescana, a three-Michelin-star restaurant based in Modena, Italy. He is known for his innovative approach to traditional Italian cuisine, often incorporating modern techniques and unusual ingredients into his dishes. In 2016, he was ranked first on the World's 50 Best Restaurants list.",
         "photo": "https://i.ibb.co/QDb1gCV/istockphoto-1142230160-612x612.jpg",
         "like": 1200,
         "years_experience": 10,
@@ -55,6 +56,30 @@
               "favorite": true
             },
             {
+              "name": "Slow Cooker Beef Stew",
+              "ingredients": [
+                "2 lbs beef chuck roast, cut into 1-inch cubes",
+                "1 onion, chopped",
+                "3 cloves garlic, minced",
+                "4 cups beef broth",
+                "2 cups diced potatoes",
+                "2 cups diced carrots",
+                "1 cup diced celery",
+                "1 can (14 oz) diced tomatoes",
+                "2 tsp dried thyme",
+                "1 tsp dried rosemary",
+                "Salt and pepper, to taste"
+              ],
+              "method": [
+                "In a slow cooker, combine the beef, onion, garlic, beef broth, potatoes, carrots, celery, tomatoes, thyme, and rosemary. Stir to combine.",
+                "Cover and cook on low for 8 hours or on high for 4-5 hours, or until the beef is tender and the vegetables are cooked through.",
+                "Season with salt and pepper to taste.",
+                "Serve hot with crusty bread."
+              ],
+              "rating": 4.8,
+              "favorite": true
+            },
+            {
               "name": "Baked Lemon Garlic Chicken",
               "ingredients": [
                 "4 boneless, skinless chicken breasts",
@@ -81,6 +106,7 @@
     {
         "id": 2,
         "name": "Gordon Ramsay",
+        "description": "Massimo Bottura is an Italian chef and the owner of Osteria Francescana, a three-Michelin-star restaurant based in Modena, Italy. He is known for his innovative approach to traditional Italian cuisine, often incorporating modern techniques and unusual ingredients into his dishes. In 2016, he was ranked first on the World's 50 Best Restaurants list.",
         "photo": "https://i.ibb.co/kq1CZH5/istockphoto-951132442-612x612.jpg",
         "like": 2500,
         "years_experience": 25,
@@ -159,6 +185,7 @@
     {
         "id": 3,
         "name": "Ina Garten",
+        "description": "Massimo Bottura is an Italian chef and the owner of Osteria Francescana, a three-Michelin-star restaurant based in Modena, Italy. He is known for his innovative approach to traditional Italian cuisine, often incorporating modern techniques and unusual ingredients into his dishes. In 2016, he was ranked first on the World's 50 Best Restaurants list.",
         "photo": "https://i.ibb.co/0GfcbGw/front-view-young-female-cook-white-cook-suit-white-cap-smiling-happy-140725-15367.jpg",
         "like": 800,
         "years_experience": 20,
@@ -236,6 +263,7 @@
     {
         "id": 4,
         "name": "Anthony Bourdain",
+        "description": "Massimo Bottura is an Italian chef and the owner of Osteria Francescana, a three-Michelin-star restaurant based in Modena, Italy. He is known for his innovative approach to traditional Italian cuisine, often incorporating modern techniques and unusual ingredients into his dishes. In 2016, he was ranked first on the World's 50 Best Restaurants list.",
         "photo": "https://i.ibb.co/y6LgsT6/portrait-smiling-chef-uniform-329181-675.jpg",
         "like": 1800,
         "years_experience": 23,
@@ -320,6 +348,7 @@
     {
         "id": 5,
         "name": "Christina Tosi",
+        "description": "Massimo Bottura is an Italian chef and restaurateur. He is the owner and chef patron of Osteria Francescana, a three-Michelin-star restaurant based in Modena, Italy. Bottura is known for his contemporary and innovative approach to traditional Italian cuisine, and has been named the world's best chef several times by various culinary publications.",
         "photo": "https://i.ibb.co/bJdVVRB/portrait-young-woman-chef-background-488220-23689.jpg",
         "like": 400,
         "years_experience": 13,
@@ -402,6 +431,7 @@
     {
         "id": 6,
         "name": "Massimo Bottura",
+        "description": "Massimo Bottura is an Italian chef and restaurateur. He is the chef patron of Osteria Francescana, a three-Michelin-star restaurant based in Modena, Italy. Bottura has been named the world's best chef multiple times and is known for his innovative and avant-garde approach to Italian cuisine.",
         "photo": "https://i.ibb.co/HBdf8DM/image-cheerful-young-cook-uniform-standing-isolated-grey-wall-171337-5340.jpg",
         "like": 1500,
         "years_experience": 12,
@@ -433,6 +463,53 @@
               ],
               "rating": 4.8,
               "favorite": true
+            },
+            {
+              "name": "Pumpkin Soup",
+              "ingredients": [
+                "1 tbsp butter",
+                "1 onion, chopped",
+                "2 garlic cloves, minced",
+                "2 cups pumpkin puree",
+                "2 cups chicken broth",
+                "1/2 cup heavy cream",
+                "1 tsp ground cinnamon",
+                "1/2 tsp ground nutmeg",
+                "Salt and pepper, to taste",
+                "Toasted pumpkin seeds, for garnish"
+              ],
+              "method": [
+                "In a large pot or Dutch oven, melt the butter over medium heat.",
+                "Add the chopped onion and garlic to the pot and cook until softened.",
+                "Add the pumpkin puree and chicken broth to the pot and bring to a simmer.",
+                "Simmer the soup for 15-20 minutes, until the flavors have melded together.",
+                "Add the heavy cream, cinnamon, nutmeg, salt, and pepper to the pot and stir to combine.",
+                "Use an immersion blender to blend the soup until smooth.",
+                "Alternatively, transfer the soup to a blender and blend until smooth.",
+                "Serve the pumpkin soup hot, garnished with toasted pumpkin seeds."
+              ],
+              "rating": 4.6,
+              "favorite": false
+            },
+            {
+                "name": "Roasted Brussels Sprouts",
+                "ingredients": [
+                  "1 lb Brussels sprouts, trimmed and halved",
+                  "2 tbsp olive oil",
+                  "1 tsp garlic powder",
+                  "1/2 tsp paprika",
+                  "Salt and pepper, to taste"
+                ],
+                "method": [
+                  "Preheat the oven to 400°F.",
+                  "In a mixing bowl, combine the Brussels sprouts, olive oil, garlic powder, paprika, salt, and pepper.",
+                  "Toss to coat the Brussels sprouts evenly with the seasoning.",
+                  "Spread the Brussels sprouts out in a single layer on a baking sheet.",
+                  "Roast the Brussels sprouts in the preheated oven for 25-30 minutes, until they are tender and browned.",
+                  "Serve the roasted Brussels sprouts hot as a side dish or snack."
+                ],
+                "rating": 4.9,
+                "favorite": true
             },
             {
               "name": "Pumpkin Soup",
