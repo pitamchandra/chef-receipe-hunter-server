@@ -1,126 +1,135 @@
 [
     {
         "id": 1,
-        "name": "Julia Child",
-        "description": "Massimo Bottura is an Italian chef and the owner of Osteria Francescana, a three-Michelin-star restaurant based in Modena, Italy. He is known for his innovative approach to traditional Italian cuisine, often incorporating modern techniques and unusual ingredients into his dishes. In 2016, he was ranked first on the World's 50 Best Restaurants list.",
+        "name": "Miss Sathi",
+        "description": "Chef Miss Sathi is a popular Bangladeshi chef who has gained fame for his culinary skills and innovative dishes. She was born in Dhaka, Bangladesh, and started her culinary career in her early twenties. Chef Ali has worked in various renowned restaurants in Bangladesh, including the Pan Pacific Sonargaon Hotel, and has also served as a chef consultant for several international hotels.",
         "photo": "https://i.ibb.co/QDb1gCV/istockphoto-1142230160-612x612.jpg",
         "like": 1200,
         "years_experience": 10,
         "recipes": [
             {
-              "name": "Garlic Butter Shrimp",
+              "name": "Biriyani",
               "ingredients": [
-                "1 lb large shrimp, peeled and deveined",
-                "2 tbsp butter",
-                "2 tbsp olive oil",
-                "4 cloves garlic, minced",
-                "1/4 tsp red pepper flakes",
-                "1/4 cup dry white wine",
-                "1/4 cup chicken broth",
-                "1/4 cup freshly chopped parsley",
-                "Salt and pepper, to taste"
+                "Basmati rice",
+                "Chicken",
+                "Onion",
+                "Garlic paste",
+                "Ginger paste",
+                "Tomatoes",
+                "Yogurt",
+                "Spices",
+                "Oil",
+                "Salt",
+                "Water"
               ],
               "method": [
-                "In a large skillet, heat the butter and olive oil over medium heat.",
-                "Add the shrimp, garlic, and red pepper flakes to the skillet. Cook for 2-3 minutes, stirring occasionally, until the shrimp are pink and cooked through.",
-                "Remove the shrimp from the skillet and set aside.",
-                "Add the white wine and chicken broth to the skillet. Bring the mixture to a simmer and cook for 3-4 minutes, or until the liquid has reduced by half.",
-                "Stir in the chopped parsley and season with salt and pepper to taste.",
-                "Return the shrimp to the skillet and toss to coat with the sauce. Serve immediately."
+                "Wash the rice in cold water until the water runs clear. Soak the rice in water for 30 minutes.",
+                "In a pot, add the rice and enough water to cover it by about an inch. Bring it to a boil over high heat, then reduce the heat to low and let it simmer until the rice is cooked through, about 10-12 minutes. Drain the rice and set it aside.",
+                "In a large pot, heat some oil over medium-high heat. Add the sliced onions and cook until they are golden brown, stirring frequently.",
+                "Add the garlic and ginger paste to the pot and cook for another minute, stirring constantly.",
+                "Add the chicken to the pot and cook until it is browned on all sides.",
+                "Add the chopped tomatoes, spices, and yogurt to the pot. Stir well to combine.",
+                "Add enough water to the pot to cover the chicken by about an inch. Bring it to a boil over high heat, then reduce the heat to medium-low and let it simmer until the chicken is cooked through, about 25-30 minutes.",
+                "Preheat the oven to 350°F (175°C).",
+                "In a baking dish, spread a layer of rice on the bottom. Add a layer of chicken on top of the rice. Repeat until all the rice and chicken are used up, ending with a layer of rice on top.",
+                "Cover the baking dish with foil and bake for 15-20 minutes, until the rice is heated through and the flavors have melded together.",
+                "Serve hot with raita (a yogurt-based sauce) and your favorite side dishes."
               ],
               "rating": 4.5,
               "favorite": false
             },
             {
-              "name": "Garlic Butter Shrimp",
+              "name": "Tarka Dal",
               "ingredients": [
-                "1 lb large shrimp, peeled and deveined",
-                "2 tbsp butter",
-                "2 tbsp olive oil",
-                "4 cloves garlic, minced",
-                "1/4 tsp red pepper flakes",
-                "1/4 cup dry white wine",
-                "1/4 cup chicken broth",
-                "1/4 cup freshly chopped parsley",
-                "Salt and pepper, to taste"
+                "Red lentils",
+                "Onion",
+                "Garlic",
+                "Ginger",
+                "Turmeric",
+                "Cumin",
+                "Oil",
+                "Salt"
               ],
               "method": [
-                "In a large skillet, heat the butter and olive oil over medium heat.",
-                "Add the shrimp, garlic, and red pepper flakes to the skillet. Cook for 2-3 minutes, stirring occasionally, until the shrimp are pink and cooked through.",
-                "Remove the shrimp from the skillet and set aside.",
-                "Add the white wine and chicken broth to the skillet. Bring the mixture to a simmer and cook for 3-4 minutes, or until the liquid has reduced by half.",
-                "Stir in the chopped parsley and season with salt and pepper to taste.",
-                "Return the shrimp to the skillet and toss to coat with the sauce. Serve immediately."
+                "Rinse the lentils thoroughly and soak them in water for 30 minutes. Drain the water and set the lentils aside.",
+                "In a pot, add the lentils and enough water to cover them by about an inch. Bring it to a boil over high heat, then reduce the heat to medium-low and let it simmer until the lentils are soft and mushy, about 20-25 minutes. Mash the lentils with a spoon or a whisk.",
+                "In a pan, heat some oil over medium heat. Add the sliced onions and cook until they are golden brown, stirring frequently.",
+                "Add the garlic and ginger paste to the pan and cook for 1-2 minutes, or until fragrant.",
+                "Add the turmeric and cumin to the pan and cook for another minute, stirring constantly.",
+                "Add the cooked lentils to the pan and mix well. Add salt to taste.",
+                "In a separate pan, heat some more oil over high heat. Once hot, add some cumin seeds and let them sizzle for a few seconds. Pour this seasoned oil, known as tarka, over the dal and mix well.",
+                "Serve hot with rice or bread."
               ],
               "rating": 4.5,
               "favorite": false
             },
             {
-              "name": "Slow Cooker Beef Stew",
+              "name": "Chitoi Pitha",
               "ingredients": [
-                "2 lbs beef chuck roast, cut into 1-inch cubes",
-                "1 onion, chopped",
-                "3 cloves garlic, minced",
-                "4 cups beef broth",
-                "2 cups diced potatoes",
-                "2 cups diced carrots",
-                "1 cup diced celery",
-                "1 can (14 oz) diced tomatoes",
-                "2 tsp dried thyme",
-                "1 tsp dried rosemary",
-                "Salt and pepper, to taste"
+                "2 cups Rice flour",
+                "2 cups Water",
+                "1/2 tsp Salt",
+                "1/2 cup Coconut milk",
+                "1/4 cup Sugar",
+                "1/4 tsp Baking powder",
+                "Oil or ghee, for frying"
               ],
               "method": [
-                "In a slow cooker, combine the beef, onion, garlic, beef broth, potatoes, carrots, celery, tomatoes, thyme, and rosemary. Stir to combine.",
-                "Cover and cook on low for 8 hours or on high for 4-5 hours, or until the beef is tender and the vegetables are cooked through.",
-                "Season with salt and pepper to taste.",
-                "Serve hot with crusty bread."
+                "In a large mixing bowl, combine the rice flour, salt, and baking powder.",
+                "In a separate bowl, mix together the water, coconut milk, and sugar until well combined.",
+                "Gradually add the liquid mixture to the dry mixture, stirring constantly, until you have a smooth batter.",
+                "Cover the bowl and let the batter rest for 1-2 hours at room temperature.",
+                "When you're ready to cook the pitha, heat a non-stick pan or tawa over medium heat and lightly grease it with oil or ghee.",
+                "Pour a ladleful of the batter onto the pan and spread it evenly to form a circle.",
+                "Cover the pan with a lid and let the pitha cook for 2-3 minutes until the surface is dry and the edges start to curl up.",
+                "Using a spatula, carefully flip the pitha over and cook for another 1-2 minutes on the other side until lightly browned.",
+                "Repeat with the remaining batter, greasing the pan lightly as needed.",
+                "Serve hot with your choice of sweet or savory toppings."
               ],
               "rating": 4.8,
               "favorite": true
             },
             {
-              "name": "Slow Cooker Beef Stew",
+              "name": "Khichuri Biryani",
               "ingredients": [
-                "2 lbs beef chuck roast, cut into 1-inch cubes",
-                "1 onion, chopped",
-                "3 cloves garlic, minced",
-                "4 cups beef broth",
-                "2 cups diced potatoes",
-                "2 cups diced carrots",
-                "1 cup diced celery",
-                "1 can (14 oz) diced tomatoes",
-                "2 tsp dried thyme",
-                "1 tsp dried rosemary",
-                "Salt and pepper, to taste"
+                "Basmati rice, washed and soaked for 30 minutes",
+                "Water",
+                "Salt",
+                "Ghee or oil",
+                "Bay leaves",
+                "Green cardamom pods"
               ],
               "method": [
-                "In a slow cooker, combine the beef, onion, garlic, beef broth, potatoes, carrots, celery, tomatoes, thyme, and rosemary. Stir to combine.",
-                "Cover and cook on low for 8 hours or on high for 4-5 hours, or until the beef is tender and the vegetables are cooked through.",
-                "Season with salt and pepper to taste.",
-                "Serve hot with crusty bread."
+                "In a large pot, bring the water to a boil over high heat. Add the soaked rice and salt, and stir to combine. Reduce the heat to low, cover the pot, and cook for 10-12 minutes or until the rice is almost done.",
+                "In a separate pot, heat the ghee or oil over medium heat. Add the bay leaves, cardamom pods, cloves, and cinnamon stick, and fry for 1-2 minutes until fragrant.",
+                "Add the sliced onion and fry for 5-7 minutes until golden brown. Add the ginger paste and garlic paste, and fry for another minute.",
+                "Add the red chili powder, turmeric powder, cumin powder, coriander powder, nutmeg powder, and mace powder, and fry for 1-2 minutes.",
+                "Add the marinated meat and fry for 5-7 minutes until the meat is browned.",
+                "Add the cooked rice to the pot with the meat, and spread it out evenly.",
+                "In a small bowl, mix together the milk and saffron strands. Pour the mixture over the rice.",
+                "Cover the pot with a tight-fitting lid and seal with dough. Cook over low heat for 30-40 minutes, or until the rice is fully cooked and the meat is tender."
               ],
               "rating": 4.8,
               "favorite": true
             },
             {
-              "name": "Baked Lemon Garlic Chicken",
+              "name": "Mishti Doi",
               "ingredients": [
-                "4 boneless, skinless chicken breasts",
-                "1/4 cup olive oil",
-                "1/4 cup freshly squeezed lemon juice",
-                "2 tbsp honey",
-                "4 cloves garlic, minced",
-                "1 tsp dried thyme",
-                "1/2 tsp salt",
-                "1/4 tsp black pepper"
+                "Milk",
+                "Plain yogurt",
+                "Sugar",
+                "Cardamom pods",
+                "Saffron (optional)"
               ],
               "method": [
-                "Preheat the oven to 375°F.",
-                "In a small bowl, whisk together the olive oil, lemon juice, honey, garlic, thyme, salt, and pepper.",
-                "Place the chicken breasts in a baking dish and pour the lemon garlic mixture over them, turning to coat.",
-                "Bake for 25-30 minutes, or until the chicken is cooked through and the juices run clear.",
-                "Serve hot with your favorite sides."
+                "In a heavy-bottomed pot, heat the milk over medium-low heat. Stir occasionally to prevent the milk from scorching.",
+                "Add the sugar and cardamom pods, and continue to cook the milk until it reduces to half the original quantity. This will take around 30-40 minutes. Remove from heat and let it cool to room temperature.",
+                "In a separate bowl, whisk together the plain yogurt and a small amount of the cooled sweetened milk to temper it.",
+                "Add the tempered yogurt to the rest of the sweetened milk, and stir well to combine.",
+                "Pour the mixture into earthen pots, and cover them with a lid or plastic wrap.",
+                "Place the pots in a warm place, like an oven with the light on or in a warm spot in the kitchen. Let the yogurt set for 6-8 hours or until it thickens.",
+                "Once the yogurt is set, transfer the pots to the refrigerator to chill for at least 1-2 hours before serving.",
+                "If desired, garnish with a few strands of saffron before serving."
               ],
               "rating": 4.2,
               "favorite": false
@@ -129,101 +138,96 @@
     },
     {
         "id": 2,
-        "name": "Gordon Ramsay",
-        "description": "Massimo Bottura is an Italian chef and the owner of Osteria Francescana, a three-Michelin-star restaurant based in Modena, Italy. He is known for his innovative approach to traditional Italian cuisine, often incorporating modern techniques and unusual ingredients into his dishes. In 2016, he was ranked first on the World's 50 Best Restaurants list.",
+        "name": "Mr. Limon islam",
+        "description": "Chef Mr. Limon islam is a popular Bangladeshi chef who has gained fame for his culinary skills and innovative dishes. he was born in Dhaka, Bangladesh, and started her culinary career in his early twenties. Chef Ali has worked in various renowned restaurants in Bangladesh, including the Pan Pacific Sonargaon Hotel, and has also served as a chef consultant for several international hotels.",
         "photo": "https://i.ibb.co/kq1CZH5/istockphoto-951132442-612x612.jpg",
         "like": 2500,
         "years_experience": 25,
         "recipes": [
             {
-              "name": "Chicken Fajitas",
+              "name": "Fuska",
               "ingredients": [
-                "1 lb boneless, skinless chicken breasts, sliced",
-                "1 onion, sliced",
-                "1 red bell pepper, sliced",
-                "1 green bell pepper, sliced",
-                "2 garlic cloves, minced",
-                "2 tbsp olive oil",
-                "2 tsp chili powder",
-                "1 tsp ground cumin",
-                "1/2 tsp smoked paprika",
-                "Salt and pepper, to taste",
-                "Flour tortillas, for serving"
+                "Fuska shells",
+                "Boiled potatoes",
+                "Chickpeas",
+                "Onion",
+                "Green chili",
+                "Tamarind paste",
+                "Cumin powder",
+                "Coriander powder",
+                "Chaat masala",
+                "Salt",
+                "Oil"
               ],
               "method": [
-                "In a large skillet, heat the olive oil over medium-high heat. Add the sliced chicken and cook for 5-7 minutes, until browned and cooked through.",
-                "Add the onion, bell peppers, and garlic to the skillet and cook for an additional 3-4 minutes, until the vegetables are softened.",
-                "Stir in the chili powder, cumin, smoked paprika, salt, and pepper, and cook for 1-2 minutes more.",
-                "Serve hot with warm flour tortillas and your favorite toppings, such as salsa, sour cream, and guacamole."
+                "Boil the potatoes until they are soft, then peel and mash them.",
+                "In a mixing bowl, add the mashed potatoes, boiled chickpeas, finely chopped onion, green chili, cumin powder, coriander powder, chaat masala, and salt. Mix well to combine.",
+                "Take a fuska shell and make a small hole in the center. Stuff the shell with the potato and chickpea mixture.",
+                "Top with a drizzle of tamarind chutney and green chili sauce.",
+                "Serve immediately."
               ],
               "rating": 4.8,
               "favorite": true
             },
             {
-              "name": "Pesto Pasta Salad",
+              "name": "Alu Bhorta",
               "ingredients": [
-                "1 lb pasta, cooked according to package instructions",
-                "1 cup cherry tomatoes, halved",
-                "1 cup fresh mozzarella balls, halved",
-                "1/2 cup basil pesto",
-                "1/4 cup olive oil",
-                "2 tbsp balsamic vinegar",
-                "Salt and pepper, to taste"
+                "Potatoes",
+                "Onion",
+                "Green chili",
+                "Mustard oil",
+                "Salt",
+                "Cilantro (optional)"
               ],
               "method": [
-                "In a large bowl, combine the cooked pasta, cherry tomatoes, and fresh mozzarella.",
-                "In a small bowl, whisk together the basil pesto, olive oil, balsamic vinegar, salt, and pepper.",
-                "Pour the pesto dressing over the pasta salad and toss to combine.",
-                "Serve cold or at room temperature, garnished with additional basil leaves if desired."
+                "Boil the potatoes until they are soft, then peel and mash them.",
+                "Add finely chopped onion, green chili, mustard oil, and salt to the mashed potatoes. Mix well to combine.",
+                "If desired, add chopped cilantro for a fresh herb flavor.",
+                "Serve as a side dish with rice or bread."
               ],
               "rating": 4.5,
               "favorite": false
             },
             {
-              "name": "Chicken Fajitas",
+              "name": "Begun Bhorta",
               "ingredients": [
-                "1 lb boneless, skinless chicken breasts, sliced",
-                "1 onion, sliced",
-                "1 red bell pepper, sliced",
-                "1 green bell pepper, sliced",
-                "2 garlic cloves, minced",
-                "2 tbsp olive oil",
-                "2 tsp chili powder",
-                "1 tsp ground cumin",
-                "1/2 tsp smoked paprika",
-                "Salt and pepper, to taste",
-                "Flour tortillas, for serving"
+                "Eggplant",
+                "Onion",
+                "Green chili",
+                "Garlic",
+                "Mustard oil",
+                "Salt",
+                "Cilantro (optional)"
               ],
               "method": [
-                "In a large skillet, heat the olive oil over medium-high heat. Add the sliced chicken and cook for 5-7 minutes, until browned and cooked through.",
-                "Add the onion, bell peppers, and garlic to the skillet and cook for an additional 3-4 minutes, until the vegetables are softened.",
-                "Stir in the chili powder, cumin, smoked paprika, salt, and pepper, and cook for 1-2 minutes more.",
-                "Serve hot with warm flour tortillas and your favorite toppings, such as salsa, sour cream, and guacamole."
+                "Roast the eggplant on an open flame or in the oven until the skin is charred and the flesh is soft.",
+                "Peel the charred skin off the eggplant and place the flesh in a mixing bowl.",
+                "Add finely chopped onion, green chili, garlic, mustard oil, and salt to the eggplant flesh. Mash and mix well to combine.",
+                "If desired, add chopped cilantro for a fresh herb flavor.",
+                "Serve as a side dish with rice or bread."
               ],
               "rating": 4.8,
               "favorite": true
             },
             {
-              "name": "Beef and Broccoli Stir-Fry",
+              "name": "Lau Chingri",
               "ingredients": [
-                "1 lb flank steak, sliced",
-                "1 lb broccoli florets",
-                "2 garlic cloves, minced",
-                "1 tbsp fresh ginger, minced",
-                "2 tbsp vegetable oil",
-                "1/4 cup soy sauce",
-                "1/4 cup oyster sauce",
-                "2 tbsp cornstarch",
-                "2 tbsp water",
-                "Salt and pepper, to taste",
-                "Cooked rice, for serving"
+                "Bottle gourd",
+                "Shrimp",
+                "Onion",
+                "Garlic",
+                "Tomatoes",
+                "Spices",
+                "Oil"
               ],
               "method": [
-                "In a large wok or skillet, heat the vegetable oil over high heat. Add the sliced flank steak and cook for 2-3 minutes, until browned on all sides.",
-                "Add the broccoli florets, garlic, and ginger to the skillet and stir-fry for an additional 3-4 minutes, until the broccoli is tender-crisp.",
-                "In a small bowl, whisk together the soy sauce, oyster sauce, cornstarch, water, salt, and pepper.",
-                "Pour the sauce over the beef and broccoli and stir-fry for an additional 1-2 minutes, until the sauce has thickened and the beef and broccoli are coated.",
-                "Serve hot over cooked rice."
+                "Peel and chop the bottle gourd into small pieces. Clean the shrimp and set aside.",
+                "Heat oil in a pan and fry sliced onions until golden brown.",
+                "Add chopped garlic and fry until fragrant.",
+                "Add chopped tomatoes and cook until they break down into a sauce.",
+                "Add turmeric, cumin, coriander, red chili powder, and salt to taste.",
+                "Add the bottle gourd and shrimp to the pan and cook until the vegetables are tender and the shrimp is cooked through.",
+                "Serve hot with rice or bread."
               ],
               "rating": 4.6,
               "favorite": true
@@ -232,14 +236,14 @@
     },
     {
         "id": 3,
-        "name": "Ina Garten",
-        "description": "Massimo Bottura is an Italian chef and the owner of Osteria Francescana, a three-Michelin-star restaurant based in Modena, Italy. He is known for his innovative approach to traditional Italian cuisine, often incorporating modern techniques and unusual ingredients into his dishes. In 2016, he was ranked first on the World's 50 Best Restaurants list.",
+        "name": "Miss Bobita Roy",
+        "description": "Chef Miss Bobita Roy is a popular Bangladeshi chef who has gained fame for his culinary skills and innovative dishes. She was born in Dhaka, Bangladesh, and started her culinary career in her early twenties. Chef Ali has worked in various renowned restaurants in Bangladesh, including the Pan Pacific Sonargaon Hotel, and has also served as a chef consultant for several international hotels.",
         "photo": "https://i.ibb.co/0GfcbGw/front-view-young-female-cook-white-cook-suit-white-cap-smiling-happy-140725-15367.jpg",
         "like": 800,
         "years_experience": 20,
         "recipes": [
             {
-              "name": "Caprese Salad",
+              "name": "Lal Shak bhaja",
               "ingredients": [
                 "2 large ripe tomatoes, sliced",
                 "8 oz fresh mozzarella cheese, sliced",
@@ -258,98 +262,100 @@
               "favorite": true
             },
             {
-              "name": "Spaghetti Bolognese",
+              "name": "Bhuna Khichuri",
               "ingredients": [
-                "1 lb spaghetti",
-                "1 lb ground beef",
-                "1 onion, chopped",
-                "2 garlic cloves, minced",
-                "1 carrot, chopped",
-                "1 celery stalk, chopped",
-                "1 can crushed tomatoes",
-                "1/2 cup beef broth",
-                "2 tbsp tomato paste",
-                "1 tsp dried oregano",
-                "1 tsp dried basil",
-                "Salt and pepper, to taste"
+                "Rice",
+                "Red lentils",
+                "Onion",
+                "Garlic",
+                "Ginger",
+                "Spices",
+                "Salt",
+                "Oil",
+                "Ghee"
               ],
               "method": [
-                "Cook the spaghetti according to package instructions until al dente.",
-                "In a large skillet, brown the ground beef over medium heat.",
-                "Add the onion, garlic, carrot, and celery to the skillet and cook for an additional 3-4 minutes, until the vegetables are softened.",
-                "Stir in the crushed tomatoes, beef broth, tomato paste, oregano, basil, salt, and pepper, and simmer for 10-15 minutes, until the sauce has thickened.",
-                "Serve the spaghetti topped with the bolognese sauce and grated Parmesan cheese, if desired."
+                "Soak rice and lentils in cold water.",
+                "Heat oil and ghee, add spices and fry.",
+                "Add sliced onions and fry until golden.",
+                "Add garlic and ginger and fry until fragrant.",
+                "Add spices, rice, and lentils and fry.",
+                "Add water, bay leaf, and cinnamon.",
+                "Cover and cook until rice and lentils are done.",
+                "Serve hot with fried eggplants, potatoes, or fried fish."
               ],
               "rating": 4.7,
               "favorite": false
             },
             {
-              "name": "Chicken Fajitas",
+              "name": "Polao",
               "ingredients": [
-                "1 lb boneless, skinless chicken breasts, sliced",
-                "1 onion, sliced",
-                "1 red bell pepper, sliced",
-                "1 green bell pepper, sliced",
-                "2 garlic cloves, minced",
-                "2 tbsp olive oil",
-                "2 tsp chili powder",
-                "1 tsp ground cumin",
-                "1/2 tsp smoked paprika",
-                "Salt and pepper, to taste",
-                "Flour tortillas, for serving"
+                "Basmati rice",
+                "Vegetable oil",
+                "Onion",
+                "Garlic",
+                "Ginger",
+                "Cumin seeds",
+                "Bay leaf",
+                "Carrots",
+                "Peas",
+                "Salt"
               ],
               "method": [
-                "In a large skillet, heat the olive oil over medium-high heat. Add the sliced chicken and cook for 5-7 minutes, until browned and cooked through.",
-                "Add the onion, bell peppers, and garlic to the skillet and cook for an additional 3-4 minutes, until the vegetables are softened.",
-                "Stir in the chili powder, cumin, smoked paprika, salt, and pepper, and cook for 1-2 minutes more.",
-                "Serve hot with warm flour tortillas and your favorite toppings, such as salsa, sour cream, and guacamole."
+                "Wash and soak rice for 20 minutes.",
+                "Heat oil in a pot and add whole spices.",
+                "Add sliced onions and fry until golden brown.",
+                "Add garlic and ginger and fry for a minute.",
+                "Add rice and fry until it turns translucent.",
+                "Add water, salt, and vegetables.",
+                "Bring to a boil, then reduce heat to low and cover.",
+                "Cook until rice is tender and water is absorbed.",
+                "Fluff the rice with a fork and let it rest for a few minutes.",
+                "Serve hot with your favorite meat or vegetable dish."
               ],
               "rating": 4.8,
               "favorite": true
             },
             {
-              "name": "Lemon Garlic Shrimp",
+              "name": "Ilish Bhaja",
               "ingredients": [
-                "1 lb large shrimp, peeled and deveined",
-                "2 garlic cloves, minced",
-                "2 tbsp butter",
-                "1/4 cup white wine",
-                "2 tbsp lemon juice",
-                "1/4 tsp red pepper flakes",
-                "Salt and pepper, to taste",
-                "2 tbsp fresh parsley, chopped",
-                "Lemon wedges, for serving"
+                "Hilsa fish",
+                "Turmeric powder",
+                "Salt",
+                "Mustard oil",
+                "Green chilies",
+                "Lemon"
               ],
               "method": [
-                "In a large skillet, melt the butter over medium heat. Add the minced garlic and red pepper flakes and cook for 1-2 minutes, until fragrant.",
-                "Add the shrimp to the skillet and cook for 2-3 minutes, until pink and cooked through.",
-                "Pour in the white wine and lemon juice and bring to a simmer.",
-                "Season with salt and pepper to taste, and sprinkle with chopped parsley.",
-                "Serve hot with lemon wedges on the side."
+                "Clean and wash the Hilsa fish thoroughly.",
+                "Marinate the fish with turmeric powder and salt for 15-20 minutes.",
+                "Heat mustard oil in a frying pan over medium-high heat.",
+                "Add the marinated fish to the hot oil and fry until it becomes golden brown on both sides.",
+                "Remove the fish from the pan and place it on a paper towel to absorb excess oil.",
+                "Garnish with sliced green chilies and lemon wedges.",
+                "Serve hot with steamed rice and dal."
               ],
               "rating": 4.8,
               "favorite": true
             },
             {
-              "name": "Chicken Fajitas",
+              "name": "Rui Bhaja",
               "ingredients": [
-                "1 lb boneless, skinless chicken breasts, sliced",
-                "1 onion, sliced",
-                "1 red bell pepper, sliced",
-                "1 green bell pepper, sliced",
-                "2 garlic cloves, minced",
-                "2 tbsp olive oil",
-                "2 tsp chili powder",
-                "1 tsp ground cumin",
-                "1/2 tsp smoked paprika",
-                "Salt and pepper, to taste",
-                "Flour tortillas, for serving"
+                "Rohu fish",
+                "Turmeric powder",
+                "Salt",
+                "Mustard oil",
+                "Green chilies",
+                "Lemon"
               ],
               "method": [
-                "In a large skillet, heat the olive oil over medium-high heat. Add the sliced chicken and cook for 5-7 minutes, until browned and cooked through.",
-                "Add the onion, bell peppers, and garlic to the skillet and cook for an additional 3-4 minutes, until the vegetables are softened.",
-                "Stir in the chili powder, cumin, smoked paprika, salt, and pepper, and cook for 1-2 minutes more.",
-                "Serve hot with warm flour tortillas and your favorite toppings, such as salsa, sour cream, and guacamole."
+                "Clean and wash the Rohu fish thoroughly.",
+                "Marinate the fish with turmeric powder and salt for 15-20 minutes.",
+                "Heat mustard oil in a frying pan over medium-high heat.",
+                "Add the marinated fish to the hot oil and fry until it becomes golden brown on both sides.",
+                "Remove the fish from the pan and place it on a paper towel to absorb excess oil.",
+                "Garnish with sliced green chilies and lemon wedges.",
+                "Serve hot with steamed rice and dal."
               ],
               "rating": 4.8,
               "favorite": true
@@ -358,376 +364,303 @@
     }, 
     {
         "id": 4,
-        "name": "Anthony Bourdain",
-        "description": "Massimo Bottura is an Italian chef and the owner of Osteria Francescana, a three-Michelin-star restaurant based in Modena, Italy. He is known for his innovative approach to traditional Italian cuisine, often incorporating modern techniques and unusual ingredients into his dishes. In 2016, he was ranked first on the World's 50 Best Restaurants list.",
+        "name": "Mr Firoj Ahmed",
+        "description": "Chef Mr Firoj Ahmed is a popular Bangladeshi chef who has gained fame for his culinary skills and innovative dishes. he was born in Dhaka, Bangladesh, and started his culinary career in his early twenties. Chef Ali has worked in various renowned restaurants in Bangladesh, including the Pan Pacific Sonargaon Hotel, and has also served as a chef consultant for several international hotels",
         "photo": "https://i.ibb.co/y6LgsT6/portrait-smiling-chef-uniform-329181-675.jpg",
         "like": 1800,
         "years_experience": 23,
         "recipes": [
             {
-              "name": "Stuffed Bell Peppers",
+              "name": "Lassi",
               "ingredients": [
-                "6 bell peppers",
-                "1 lb ground beef",
-                "1 onion, chopped",
-                "2 garlic cloves, minced",
-                "1 can diced tomatoes",
-                "1 cup cooked rice",
-                "1/2 cup shredded cheddar cheese",
-                "1 tsp paprika",
-                "Salt and pepper, to taste"
+                "Plain yogurt",
+                "Milk",
+                "Sugar",
+                "Cardamom powder",
+                "Ice cubes"
               ],
               "method": [
-                "Preheat the oven to 375°F.",
-                "Cut off the tops of the bell peppers and remove the seeds and membranes.",
-                "In a large skillet, brown the ground beef over medium heat.",
-                "Add the onion and garlic to the skillet and cook until softened.",
-                "Stir in the diced tomatoes, cooked rice, cheddar cheese, paprika, salt, and pepper.",
-                "Stuff the beef and rice mixture into the bell peppers and place them in a baking dish.",
-                "Bake for 45-50 minutes, until the bell peppers are tender and the filling is hot and bubbly."
+                "In a blender, add the plain yogurt, milk, sugar, and cardamom powder.",
+                "Blend the ingredients until smooth.",
+                "Add a few ice cubes and blend again until the mixture is frothy.",
+                "Pour the Lassi into glasses and serve chilled.",
+                "Garnish with a sprinkle of cardamom powder and sliced almonds, if desired."
               ],
               "rating": 4.5,
               "favorite": false
             },
             {
-              "name": "Chicken Fajitas",
+              "name": "Bhapa pitha",
               "ingredients": [
-                "1 lb boneless, skinless chicken breasts, sliced",
-                "1 onion, sliced",
-                "1 red bell pepper, sliced",
-                "1 green bell pepper, sliced",
-                "2 garlic cloves, minced",
-                "2 tbsp olive oil",
-                "2 tsp chili powder",
-                "1 tsp ground cumin",
-                "1/2 tsp smoked paprika",
-                "Salt and pepper, to taste",
-                "Flour tortillas, for serving"
+                "Rice flour",
+                "Jaggery",
+                "Coconut milk",
+                "Water",
+                "Salt",
+                "Cardamom powder",
+                "Shredded coconut (optional)"
               ],
               "method": [
-                "In a large skillet, heat the olive oil over medium-high heat. Add the sliced chicken and cook for 5-7 minutes, until browned and cooked through.",
-                "Add the onion, bell peppers, and garlic to the skillet and cook for an additional 3-4 minutes, until the vegetables are softened.",
-                "Stir in the chili powder, cumin, smoked paprika, salt, and pepper, and cook for 1-2 minutes more.",
-                "Serve hot with warm flour tortillas and your favorite toppings, such as salsa, sour cream, and guacamole."
+                "In a mixing bowl, combine the rice flour, jaggery, coconut milk, water, salt, and cardamom powder.",
+                "Mix the ingredients well to form a smooth batter. The batter should be thick yet pourable.",
+                "Grease a shallow heat-proof dish or a steel container with oil.",
+                "Pour the batter into the greased dish and sprinkle some shredded coconut on top.",
+                "Cover the dish with aluminum foil or a tight-fitting lid.",
+                "Place the dish in a steamer and steam for 20-25 minutes or until a toothpick inserted in the center comes out clean.",
+                "Remove the dish from the steamer and let it cool down for a few minutes.",
+                "Cut the Bhapa Pitha into pieces and serve warm."
               ],
               "rating": 4.8,
               "favorite": true
             },
             {
-              "name": "Chicken Fajitas",
+              "name": "Rui Bhaja",
               "ingredients": [
-                "1 lb boneless, skinless chicken breasts, sliced",
-                "1 onion, sliced",
-                "1 red bell pepper, sliced",
-                "1 green bell pepper, sliced",
-                "2 tbsp olive oil",
-                "2 tbsp taco seasoning",
-                "Salt and pepper, to taste",
-                "8 flour tortillas",
-                "Sour cream, shredded cheese, and guacamole, for serving"
+                "Rohu fish",
+                "Turmeric powder",
+                "Salt",
+                "Mustard oil",
+                "Green chilies",
+                "Lemon"
               ],
               "method": [
-                "In a large skillet, heat the olive oil over medium-high heat.",
-                "Add the sliced chicken to the skillet and cook until browned.",
-                "Add the sliced onion and bell peppers to the skillet and cook until softened.",
-                "Sprinkle the taco seasoning over the chicken and vegetables, and stir to combine.",
-                "Season with salt and pepper to taste.",
-                "Warm the flour tortillas in the oven or microwave.",
-                "Serve the chicken and vegetables in the warm tortillas, and top with sour cream, shredded cheese, and guacamole."
+                "Clean and wash the Rohu fish thoroughly.",
+                "Marinate the fish with turmeric powder and salt for 15-20 minutes.",
+                "Heat mustard oil in a frying pan over medium-high heat.",
+                "Add the marinated fish to the hot oil and fry until it becomes golden brown on both sides.",
+                "Remove the fish from the pan and place it on a paper towel to absorb excess oil.",
+                "Garnish with sliced green chilies and lemon wedges.",
+                "Serve hot with steamed rice and dal."
               ],
               "rating": 4.8,
               "favorite": true
             },
             {
-              "name": "Banana Bread",
+              "name": "Bhapa pitha",
               "ingredients": [
-                "3 ripe bananas",
-                "1/3 cup melted butter",
-                "1 tsp baking soda",
-                "Pinch of salt",
-                "3/4 cup sugar",
-                "1 large egg, beaten",
-                "1 tsp vanilla extract",
-                "1 1/2 cups all-purpose flour"
+                "Rice flour",
+                "Jaggery",
+                "Coconut milk",
+                "Water",
+                "Salt",
+                "Cardamom powder",
+                "Shredded coconut (optional)"
               ],
               "method": [
-                "Preheat the oven to 350°F.",
-                "Mash the ripe bananas in a mixing bowl.",
-                "Add the melted butter, baking soda, salt, and sugar, and stir to combine.",
-                "Add the beaten egg and vanilla extract, and stir to combine.",
-                "Stir in the flour, mixing until just combined.",
-                "Pour the batter into a greased loaf pan.",
-                "Bake for 50-60 minutes, until a toothpick inserted into the center comes out clean.",
-                "Let the banana bread cool in the pan for 10 minutes before removing and slicing."
+                "In a mixing bowl, combine the rice flour, jaggery, coconut milk, water, salt, and cardamom powder.",
+                "Mix the ingredients well to form a smooth batter. The batter should be thick yet pourable.",
+                "Grease a shallow heat-proof dish or a steel container with oil.",
+                "Pour the batter into the greased dish and sprinkle some shredded coconut on top.",
+                "Cover the dish with aluminum foil or a tight-fitting lid.",
+                "Place the dish in a steamer and steam for 20-25 minutes or until a toothpick inserted in the center comes out clean.",
+                "Remove the dish from the steamer and let it cool down for a few minutes.",
+                "Cut the Bhapa Pitha into pieces and serve warm."
               ],
-              "rating": 4.9,
-              "favorite": false
+              "rating": 4.8,
+              "favorite": true
             }
         ]
     }, 
     {
         "id": 5,
-        "name": "Christina Tosi",
-        "description": "Massimo Bottura is an Italian chef and restaurateur. He is the owner and chef patron of Osteria Francescana, a three-Michelin-star restaurant based in Modena, Italy. Bottura is known for his contemporary and innovative approach to traditional Italian cuisine, and has been named the world's best chef several times by various culinary publications.",
+        "name": "Miss Labonno Islam",
+        "description": "Chef Miss Labonno Islam is a popular Bangladeshi chef who has gained fame for her culinary skills and innovative dishes. she was born in Dhaka, Bangladesh, and started his culinary career in her early twenties. Chef Ali has worked in various renowned restaurants in Bangladesh, including the Pan Pacific Sonargaon Hotel, and has also served as a chef consultant for several international hotels.",
         "photo": "https://i.ibb.co/bJdVVRB/portrait-young-woman-chef-background-488220-23689.jpg",
         "like": 400,
         "years_experience": 13,
         "recipes": [
+          {
+            "name": "Bhapa pitha",
+            "ingredients": [
+              "Rice flour",
+              "Jaggery",
+              "Coconut milk",
+              "Water",
+              "Salt",
+              "Cardamom powder",
+              "Shredded coconut (optional)"
+            ],
+            "method": [
+              "In a mixing bowl, combine the rice flour, jaggery, coconut milk, water, salt, and cardamom powder.",
+              "Mix the ingredients well to form a smooth batter. The batter should be thick yet pourable.",
+              "Grease a shallow heat-proof dish or a steel container with oil.",
+              "Pour the batter into the greased dish and sprinkle some shredded coconut on top.",
+              "Cover the dish with aluminum foil or a tight-fitting lid.",
+              "Place the dish in a steamer and steam for 20-25 minutes or until a toothpick inserted in the center comes out clean.",
+              "Remove the dish from the steamer and let it cool down for a few minutes.",
+              "Cut the Bhapa Pitha into pieces and serve warm."
+            ],
+            "rating": 4.8,
+            "favorite": true
+          },
+          {
+            "name": "Rui Bhaja",
+            "ingredients": [
+              "Rohu fish",
+              "Turmeric powder",
+              "Salt",
+              "Mustard oil",
+              "Green chilies",
+              "Lemon"
+            ],
+            "method": [
+              "Clean and wash the Rohu fish thoroughly.",
+              "Marinate the fish with turmeric powder and salt for 15-20 minutes.",
+              "Heat mustard oil in a frying pan over medium-high heat.",
+              "Add the marinated fish to the hot oil and fry until it becomes golden brown on both sides.",
+              "Remove the fish from the pan and place it on a paper towel to absorb excess oil.",
+              "Garnish with sliced green chilies and lemon wedges.",
+              "Serve hot with steamed rice and dal."
+            ],
+            "rating": 4.8,
+            "favorite": true
+          },
             {
-              "name": "Pesto Pasta",
+              "name": "Bhapa pitha",
               "ingredients": [
-                "1 lb pasta",
-                "1 cup fresh basil leaves",
-                "1/2 cup pine nuts",
-                "3 garlic cloves",
-                "1/2 cup grated Parmesan cheese",
-                "1/2 cup olive oil",
-                "Salt and pepper, to taste"
+                "Rice flour",
+                "Jaggery",
+                "Coconut milk",
+                "Water",
+                "Salt",
+                "Cardamom powder",
+                "Shredded coconut (optional)"
               ],
               "method": [
-                "Bring a large pot of salted water to a boil.",
-                "Add the pasta to the boiling water and cook until al dente, according to the package directions.",
-                "Meanwhile, make the pesto by combining the basil, pine nuts, garlic, Parmesan cheese, and olive oil in a food processor or blender.",
-                "Pulse until the mixture is smooth and creamy.",
-                "Season the pesto with salt and pepper to taste.",
-                "Drain the cooked pasta and return it to the pot.",
-                "Add the pesto to the pot and toss to coat the pasta evenly.",
-                "Serve the pesto pasta hot, garnished with extra Parmesan cheese and fresh basil leaves."
-              ],
-              "rating": 4.7,
-              "favorite": true
-            },
-            {
-              "name": "Chicken Fajitas",
-              "ingredients": [
-                "1 lb boneless, skinless chicken breasts, sliced",
-                "1 onion, sliced",
-                "1 red bell pepper, sliced",
-                "1 green bell pepper, sliced",
-                "2 garlic cloves, minced",
-                "2 tbsp olive oil",
-                "2 tsp chili powder",
-                "1 tsp ground cumin",
-                "1/2 tsp smoked paprika",
-                "Salt and pepper, to taste",
-                "Flour tortillas, for serving"
-              ],
-              "method": [
-                "In a large skillet, heat the olive oil over medium-high heat. Add the sliced chicken and cook for 5-7 minutes, until browned and cooked through.",
-                "Add the onion, bell peppers, and garlic to the skillet and cook for an additional 3-4 minutes, until the vegetables are softened.",
-                "Stir in the chili powder, cumin, smoked paprika, salt, and pepper, and cook for 1-2 minutes more.",
-                "Serve hot with warm flour tortillas and your favorite toppings, such as salsa, sour cream, and guacamole."
+                "In a mixing bowl, combine the rice flour, jaggery, coconut milk, water, salt, and cardamom powder.",
+                "Mix the ingredients well to form a smooth batter. The batter should be thick yet pourable.",
+                "Grease a shallow heat-proof dish or a steel container with oil.",
+                "Pour the batter into the greased dish and sprinkle some shredded coconut on top.",
+                "Cover the dish with aluminum foil or a tight-fitting lid.",
+                "Place the dish in a steamer and steam for 20-25 minutes or until a toothpick inserted in the center comes out clean.",
+                "Remove the dish from the steamer and let it cool down for a few minutes.",
+                "Cut the Bhapa Pitha into pieces and serve warm."
               ],
               "rating": 4.8,
               "favorite": true
             },
             {
-              "name": "Beef Stir Fry",
+              "name": "Mishti Doi",
               "ingredients": [
-                "1 lb beef sirloin, thinly sliced",
-                "1 onion, sliced",
-                "1 red bell pepper, sliced",
-                "1 green bell pepper, sliced",
-                "2 garlic cloves, minced",
-                "1 tbsp ginger, minced",
-                "1/4 cup soy sauce",
-                "1 tbsp cornstarch",
-                "1 tbsp honey",
-                "2 tbsp vegetable oil",
-                "Salt and pepper, to taste",
-                "Cooked rice, for serving"
+                "Milk",
+                "Plain yogurt",
+                "Sugar",
+                "Cardamom pods",
+                "Saffron (optional)"
               ],
               "method": [
-                "In a small bowl, whisk together the soy sauce, cornstarch, and honey.",
-                "In a large skillet or wok, heat the vegetable oil over high heat.",
-                "Add the sliced beef to the skillet and cook until browned on all sides.",
-                "Add the onion, bell peppers, garlic, and ginger to the skillet and cook until softened.",
-                "Pour the soy sauce mixture over the beef and vegetables, and stir to combine.",
-                "Cook for 2-3 minutes, until the sauce has thickened and the beef is cooked through.",
-                "Season with salt and pepper to taste.",
-                "Serve the beef stir fry over cooked rice."
+                "In a heavy-bottomed pot, heat the milk over medium-low heat. Stir occasionally to prevent the milk from scorching.",
+                "Add the sugar and cardamom pods, and continue to cook the milk until it reduces to half the original quantity. This will take around 30-40 minutes. Remove from heat and let it cool to room temperature.",
+                "In a separate bowl, whisk together the plain yogurt and a small amount of the cooled sweetened milk to temper it.",
+                "Add the tempered yogurt to the rest of the sweetened milk, and stir well to combine.",
+                "Pour the mixture into earthen pots, and cover them with a lid or plastic wrap.",
+                "Place the pots in a warm place, like an oven with the light on or in a warm spot in the kitchen. Let the yogurt set for 6-8 hours or until it thickens.",
+                "Once the yogurt is set, transfer the pots to the refrigerator to chill for at least 1-2 hours before serving.",
+                "If desired, garnish with a few strands of saffron before serving."
               ],
-              "rating": 4.5,
+              "rating": 4.2,
               "favorite": false
-            },
-            {
-              "name": "Chicken Fajitas",
-              "ingredients": [
-                "1 lb boneless, skinless chicken breasts, sliced",
-                "1 onion, sliced",
-                "1 red bell pepper, sliced",
-                "1 green bell pepper, sliced",
-                "2 garlic cloves, minced",
-                "2 tbsp olive oil",
-                "2 tsp chili powder",
-                "1 tsp ground cumin",
-                "1/2 tsp smoked paprika",
-                "Salt and pepper, to taste",
-                "Flour tortillas, for serving"
-              ],
-              "method": [
-                "In a large skillet, heat the olive oil over medium-high heat. Add the sliced chicken and cook for 5-7 minutes, until browned and cooked through.",
-                "Add the onion, bell peppers, and garlic to the skillet and cook for an additional 3-4 minutes, until the vegetables are softened.",
-                "Stir in the chili powder, cumin, smoked paprika, salt, and pepper, and cook for 1-2 minutes more.",
-                "Serve hot with warm flour tortillas and your favorite toppings, such as salsa, sour cream, and guacamole."
-              ],
-              "rating": 4.8,
-              "favorite": true
-            },
-            {
-              "name": "Roasted Brussels Sprouts",
-              "ingredients": [
-                "1 lb Brussels sprouts, trimmed and halved",
-                "2 tbsp olive oil",
-                "1 tsp garlic powder",
-                "1/2 tsp paprika",
-                "Salt and pepper, to taste"
-              ],
-              "method": [
-                "Preheat the oven to 400°F.",
-                "In a mixing bowl, combine the Brussels sprouts, olive oil, garlic powder, paprika, salt, and pepper.",
-                "Toss to coat the Brussels sprouts evenly with the seasoning.",
-                "Spread the Brussels sprouts out in a single layer on a baking sheet.",
-                "Roast the Brussels sprouts in the preheated oven for 25-30 minutes, until they are tender and browned.",
-                "Serve the roasted Brussels sprouts hot as a side dish or snack."
-              ],
-              "rating": 4.9,
-              "favorite": true
             }
         ]
     }, 
     {
         "id": 6,
-        "name": "Massimo Bottura",
-        "description": "Massimo Bottura is an Italian chef and restaurateur. He is the chef patron of Osteria Francescana, a three-Michelin-star restaurant based in Modena, Italy. Bottura has been named the world's best chef multiple times and is known for his innovative and avant-garde approach to Italian cuisine.",
+        "name": "Mr. Raju Islam",
+        "description": "Chef Mr Raju Islam is a popular Bangladeshi chef who has gained fame for his culinary skills and innovative dishes. he was born in Dhaka, Bangladesh, and started his culinary career in his early twenties. Chef Ali has worked in various renowned restaurants in Bangladesh, including the Pan Pacific Sonargaon Hotel, and has also served as a chef consultant for several international hotels",
         "photo": "https://i.ibb.co/HBdf8DM/image-cheerful-young-cook-uniform-standing-isolated-grey-wall-171337-5340.jpg",
         "like": 1500,
         "years_experience": 12,
         "recipes": [
+          {
+            "name": "Bhapa pitha",
+            "ingredients": [
+              "Rice flour",
+              "Jaggery",
+              "Coconut milk",
+              "Water",
+              "Salt",
+              "Cardamom powder",
+              "Shredded coconut (optional)"
+            ],
+            "method": [
+              "In a mixing bowl, combine the rice flour, jaggery, coconut milk, water, salt, and cardamom powder.",
+              "Mix the ingredients well to form a smooth batter. The batter should be thick yet pourable.",
+              "Grease a shallow heat-proof dish or a steel container with oil.",
+              "Pour the batter into the greased dish and sprinkle some shredded coconut on top.",
+              "Cover the dish with aluminum foil or a tight-fitting lid.",
+              "Place the dish in a steamer and steam for 20-25 minutes or until a toothpick inserted in the center comes out clean.",
+              "Remove the dish from the steamer and let it cool down for a few minutes.",
+              "Cut the Bhapa Pitha into pieces and serve warm."
+            ],
+            "rating": 4.8,
+            "favorite": true
+          },
+          {
+            "name": "Rui Bhaja",
+            "ingredients": [
+              "Rohu fish",
+              "Turmeric powder",
+              "Salt",
+              "Mustard oil",
+              "Green chilies",
+              "Lemon"
+            ],
+            "method": [
+              "Clean and wash the Rohu fish thoroughly.",
+              "Marinate the fish with turmeric powder and salt for 15-20 minutes.",
+              "Heat mustard oil in a frying pan over medium-high heat.",
+              "Add the marinated fish to the hot oil and fry until it becomes golden brown on both sides.",
+              "Remove the fish from the pan and place it on a paper towel to absorb excess oil.",
+              "Garnish with sliced green chilies and lemon wedges.",
+              "Serve hot with steamed rice and dal."
+            ],
+            "rating": 4.8,
+            "favorite": true
+          },
             {
-              "name": "Chicken Fajitas",
+              "name": "Bhapa pitha",
               "ingredients": [
-                "1 lb boneless, skinless chicken breasts, sliced",
-                "1 onion, sliced",
-                "1 red bell pepper, sliced",
-                "1 green bell pepper, sliced",
-                "2 garlic cloves, minced",
-                "1 tbsp chili powder",
-                "1 tsp ground cumin",
-                "1 tsp smoked paprika",
-                "1/4 cup vegetable oil",
-                "Salt and pepper, to taste",
-                "8-10 flour tortillas, warmed",
-                "Sour cream, guacamole, and salsa, for serving"
+                "Rice flour",
+                "Jaggery",
+                "Coconut milk",
+                "Water",
+                "Salt",
+                "Cardamom powder",
+                "Shredded coconut (optional)"
               ],
               "method": [
-                "In a mixing bowl, combine the sliced chicken, chili powder, cumin, smoked paprika, vegetable oil, salt, and pepper.",
-                "Toss to coat the chicken evenly with the seasoning.",
-                "In a large skillet or wok, heat some oil over high heat.",
-                "Add the chicken to the skillet and cook until browned and cooked through, about 6-8 minutes.",
-                "Add the onion, bell peppers, and garlic to the skillet and cook until softened.",
-                "Season with salt and pepper to taste.",
-                "Serve the chicken fajitas in warm tortillas with sour cream, guacamole, and salsa."
+                "In a mixing bowl, combine the rice flour, jaggery, coconut milk, water, salt, and cardamom powder.",
+                "Mix the ingredients well to form a smooth batter. The batter should be thick yet pourable.",
+                "Grease a shallow heat-proof dish or a steel container with oil.",
+                "Pour the batter into the greased dish and sprinkle some shredded coconut on top.",
+                "Cover the dish with aluminum foil or a tight-fitting lid.",
+                "Place the dish in a steamer and steam for 20-25 minutes or until a toothpick inserted in the center comes out clean.",
+                "Remove the dish from the steamer and let it cool down for a few minutes.",
+                "Cut the Bhapa Pitha into pieces and serve warm."
               ],
               "rating": 4.8,
               "favorite": true
             },
             {
-              "name": "Chicken Fajitas",
+              "name": "Mishti Doi",
               "ingredients": [
-                "1 lb boneless, skinless chicken breasts, sliced",
-                "1 onion, sliced",
-                "1 red bell pepper, sliced",
-                "1 green bell pepper, sliced",
-                "2 garlic cloves, minced",
-                "2 tbsp olive oil",
-                "2 tsp chili powder",
-                "1 tsp ground cumin",
-                "1/2 tsp smoked paprika",
-                "Salt and pepper, to taste",
-                "Flour tortillas, for serving"
+                "Milk",
+                "Plain yogurt",
+                "Sugar",
+                "Cardamom pods",
+                "Saffron (optional)"
               ],
               "method": [
-                "In a large skillet, heat the olive oil over medium-high heat. Add the sliced chicken and cook for 5-7 minutes, until browned and cooked through.",
-                "Add the onion, bell peppers, and garlic to the skillet and cook for an additional 3-4 minutes, until the vegetables are softened.",
-                "Stir in the chili powder, cumin, smoked paprika, salt, and pepper, and cook for 1-2 minutes more.",
-                "Serve hot with warm flour tortillas and your favorite toppings, such as salsa, sour cream, and guacamole."
+                "In a heavy-bottomed pot, heat the milk over medium-low heat. Stir occasionally to prevent the milk from scorching.",
+                "Add the sugar and cardamom pods, and continue to cook the milk until it reduces to half the original quantity. This will take around 30-40 minutes. Remove from heat and let it cool to room temperature.",
+                "In a separate bowl, whisk together the plain yogurt and a small amount of the cooled sweetened milk to temper it.",
+                "Add the tempered yogurt to the rest of the sweetened milk, and stir well to combine.",
+                "Pour the mixture into earthen pots, and cover them with a lid or plastic wrap.",
+                "Place the pots in a warm place, like an oven with the light on or in a warm spot in the kitchen. Let the yogurt set for 6-8 hours or until it thickens.",
+                "Once the yogurt is set, transfer the pots to the refrigerator to chill for at least 1-2 hours before serving.",
+                "If desired, garnish with a few strands of saffron before serving."
               ],
-              "rating": 4.8,
-              "favorite": true
-            },
-            {
-              "name": "Pumpkin Soup",
-              "ingredients": [
-                "1 tbsp butter",
-                "1 onion, chopped",
-                "2 garlic cloves, minced",
-                "2 cups pumpkin puree",
-                "2 cups chicken broth",
-                "1/2 cup heavy cream",
-                "1 tsp ground cinnamon",
-                "1/2 tsp ground nutmeg",
-                "Salt and pepper, to taste",
-                "Toasted pumpkin seeds, for garnish"
-              ],
-              "method": [
-                "In a large pot or Dutch oven, melt the butter over medium heat.",
-                "Add the chopped onion and garlic to the pot and cook until softened.",
-                "Add the pumpkin puree and chicken broth to the pot and bring to a simmer.",
-                "Simmer the soup for 15-20 minutes, until the flavors have melded together.",
-                "Add the heavy cream, cinnamon, nutmeg, salt, and pepper to the pot and stir to combine.",
-                "Use an immersion blender to blend the soup until smooth.",
-                "Alternatively, transfer the soup to a blender and blend until smooth.",
-                "Serve the pumpkin soup hot, garnished with toasted pumpkin seeds."
-              ],
-              "rating": 4.6,
-              "favorite": false
-            },
-            {
-                "name": "Roasted Brussels Sprouts",
-                "ingredients": [
-                  "1 lb Brussels sprouts, trimmed and halved",
-                  "2 tbsp olive oil",
-                  "1 tsp garlic powder",
-                  "1/2 tsp paprika",
-                  "Salt and pepper, to taste"
-                ],
-                "method": [
-                  "Preheat the oven to 400°F.",
-                  "In a mixing bowl, combine the Brussels sprouts, olive oil, garlic powder, paprika, salt, and pepper.",
-                  "Toss to coat the Brussels sprouts evenly with the seasoning.",
-                  "Spread the Brussels sprouts out in a single layer on a baking sheet.",
-                  "Roast the Brussels sprouts in the preheated oven for 25-30 minutes, until they are tender and browned.",
-                  "Serve the roasted Brussels sprouts hot as a side dish or snack."
-                ],
-                "rating": 4.9,
-                "favorite": true
-            },
-            {
-              "name": "Pumpkin Soup",
-              "ingredients": [
-                "1 tbsp butter",
-                "1 onion, chopped",
-                "2 garlic cloves, minced",
-                "2 cups pumpkin puree",
-                "2 cups chicken broth",
-                "1/2 cup heavy cream",
-                "1 tsp ground cinnamon",
-                "1/2 tsp ground nutmeg",
-                "Salt and pepper, to taste",
-                "Toasted pumpkin seeds, for garnish"
-              ],
-              "method": [
-                "In a large pot or Dutch oven, melt the butter over medium heat.",
-                "Add the chopped onion and garlic to the pot and cook until softened.",
-                "Add the pumpkin puree and chicken broth to the pot and bring to a simmer.",
-                "Simmer the soup for 15-20 minutes, until the flavors have melded together.",
-                "Add the heavy cream, cinnamon, nutmeg, salt, and pepper to the pot and stir to combine.",
-                "Use an immersion blender to blend the soup until smooth.",
-                "Alternatively, transfer the soup to a blender and blend until smooth.",
-                "Serve the pumpkin soup hot, garnished with toasted pumpkin seeds."
-              ],
-              "rating": 4.6,
+              "rating": 4.2,
               "favorite": false
             }
         ]
